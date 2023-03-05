@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AudioNotes</string>
+    <string name="record_length">%s / %s</string>
+    <string name="app_bar_title">Ваши записи</string>
+    <string name="require_permission">В разрешениях отказано. Необходимо предоставить разрешения для корректной работы приложения</string>
+    <string name="cancel_request">Отклонить</string>
+    <string name="repeat">Запросить повторно</string>
+    <string name="settings">Настройки</string>
+    <string name="request_again">Запросить заново</string>
+    <string name="request_assess">Запрос доступа</string>
+    <string name="denied">В настройках разрешите доступ отказано</string>
+    <string name="give_permissions">Предоставьте разрешения для корректной работы приложения</string>
+    <string name="granted">Разрешение получено</string>
+    <string name="record_timer_time">%s:$s</string>
+    <string name="create_title">Придумайте название</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="default_name">Безымянная</string>
+
+</resources>

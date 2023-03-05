@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CollapsingToolbarExpandedTitle" parent="@style/TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:textColor">#28323C</item>
+        <item name="android:lineSpacingExtra">@dimen/smaller_line_spacing</item>
+    </style>
+
+    <style name="CollapsingToolbarCollapsedTitle" parent="@style/TextAppearance.AppCompat.Title">
+        <item name="android:textColor">#28323C</item>
+        <item name="android:lineSpacingExtra">@dimen/smaller_line_spacing</item>
+    </style>
+</resources>
